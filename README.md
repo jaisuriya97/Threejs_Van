@@ -4,7 +4,8 @@
 # Simple Three js Example using Realtime Blender Model
 Three.js is a JavaScript library that uses WebGL in an HTML5 canvas to render animations that alone are not possible to create in WebGL. This library is responsible for creating lighting effects, shadows, materials, textures, and 3D geometrical models, which are very hard to create in WebGL.
 
-- This was Created by reference or a copy of a youtube video ``` https://youtu.be/_OwJV2xL8M8?si=EwENtpmKpSql9tvy```
+- This was Created by reference or a copy of a youtube video
+-  ``` https://youtu.be/_OwJV2xL8M8?si=EwENtpmKpSql9tvy```
 - This model was Download from ``` sketchfab.com ```
 - To import the model , I used GLTFLoader
 

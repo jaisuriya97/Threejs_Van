@@ -8,7 +8,15 @@ Three.js is a JavaScript library that uses WebGL in an HTML5 canvas to render an
 -  ``` https://youtu.be/_OwJV2xL8M8?si=EwENtpmKpSql9tvy```
 - This model was Download from ``` sketchfab.com ```
 - To import the model , I used GLTFLoader
-
+## Instellation
+- step 1:
+   ``` git clone https://github.com/jaisuriya97/Threejs_Van```
+   or 
+   Download the zip file
+- step 2:
+     ``` npm install ```
+- step 3:
+     ``` npm run dev ```
 ## Screen Shot
    ### Main Page
    ![Screenshot 2023-10-30 150631](https://github.com/jaisuriya97/Threejs_Van/assets/80122325/f20c1451-4980-463b-9797-c973af2d9bc8)
